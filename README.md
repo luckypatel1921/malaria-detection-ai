@@ -1,2 +1,2 @@
-# malaria-detection-ai
-AI powered malaria detection using deep learning
+# Malaria_Detection_Project
+Malaria Detection using Deep Learning
